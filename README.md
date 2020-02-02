@@ -5,7 +5,7 @@ https://go-zen-chu.github.io/alfred-links/
 
 ## dev
 
-update shortcuts.csv
+update shortcuts.csv (Page Name, Shortcut, URL with {query})
 
 ```bash
 ./gen_index.sh
