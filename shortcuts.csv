@@ -1,1 +1,3 @@
 GitHub Repository Search,gh,https://github.com/search?q={query}
+Google,g,https://www.google.com/search?q={query}
+Google Map,gm,https://www.google.com/maps/place/{query}
